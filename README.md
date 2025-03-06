@@ -17,7 +17,8 @@ A simple, lightweight chat application built using **MongoDB, Express.js, and No
 
 
 ## 📷 Screenshots  
-(Add screenshots of the UI here)  <img width="1267" alt="gg" src="https://github.com/user-attachments/assets/04a6c868-c569-47ef-b807-abf60ccce0dd" />
+(Add screenshots of the UI here)  
+<img width="1258" alt="gg" src="https://github.com/user-attachments/assets/98eee5f9-2310-424e-be93-32a60720b3f1" />
 
 
 ## 🤝 Contributing  
