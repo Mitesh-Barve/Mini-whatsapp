@@ -5,10 +5,8 @@ A simple, lightweight chat application built using **MongoDB, Express.js, and No
 ## 🚀 Features
 - Real-time messaging  
 - User authentication  
-- Group chat support  
-- Media sharing (images, videos, documents)  
-- Online/offline status tracking  
-
+- Group chat support
+- 
 ## 🛠️ Tech Stack
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
