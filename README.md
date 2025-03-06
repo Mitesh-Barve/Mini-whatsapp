@@ -12,8 +12,6 @@ A simple, lightweight chat application built using **MongoDB, Express.js, and No
 ## 🛠️ Tech Stack
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- **Authentication**: JWT (JSON Web Token)  
-- **WebSockets**: Socket.io for real-time chat  
 
 
 ## 📷 Screenshots  
